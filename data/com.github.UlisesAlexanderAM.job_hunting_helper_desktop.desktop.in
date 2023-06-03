@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=job_hunting_helper_desktop
+Exec=job_hunting_helper_desktop
+Icon=com.github.UlisesAlexanderAM.job_hunting_helper_desktop
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
